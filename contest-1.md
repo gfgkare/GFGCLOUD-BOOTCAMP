@@ -30,4 +30,4 @@ ____
 ____
 ### 15. ```Autopilot mode simplifies node management by allowing Google to handle both control plane and worker nodes.```
 ____
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+
