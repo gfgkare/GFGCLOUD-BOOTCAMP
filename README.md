@@ -1,4 +1,7 @@
-`        `![](Aspose.Words.c13e23e2-07a4-4e6e-969f-a219dfb24b21.001.jpeg)
+`        `![](Aspose.Words.c13e23e2-07a4-4e6e-969f-a219dfb24b21.001.jpeg) 
+
+**Join the live session:
+👉 https://practice.geeksforgeeks.org/batch/cloud-bootcamp?tab=Live 👈**
 
 **Course Description**
 
